@@ -28,3 +28,7 @@ body {
 .border-top-sandy {
   border-top: 1px solid #efe1a9;
 }
+
+.point {
+  color: white;
+}
